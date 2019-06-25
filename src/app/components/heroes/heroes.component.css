@@ -1,0 +1,22 @@
+.text-azul{
+
+    color: #1A569C;
+} 
+.text-verde{
+    color: #1b5e20;
+}
+.cabezera{
+    background-color: #1A569C
+}
+
+.linea{
+    text-decoration: line-through;
+}
+
+.containerColor{
+    background-color:#fafafa;
+}
+
+.redondo{
+    border-radius: 100px;
+}
